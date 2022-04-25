@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Adel Khalifa El-Hawary</h1>
 <h3 align="center">Android developer and Kotlin Enthusiast</h3>
+</br>
 
+<p align="center">
+ <img src="https://thumbs.gfycat.com/FilthyShabbyGaur-max-1mb.gif"  width="160" height="160" >
+  
+  
 <br/><br/>
 <p align="left"> <a href="https://twitter.com/adel_el_hawary" target="blank"><img src="https://img.shields.io/twitter/follow/adel_el_hawary?logo=twitter&style=for-the-badge" alt="adel_el_hawary" /></a> </p>
 
