@@ -9,7 +9,7 @@
 <br/><br/>
 <p align="left"> <a href="https://twitter.com/adel_el_hawary" target="blank"><img src="https://img.shields.io/twitter/follow/adel_el_hawary?logo=twitter&style=for-the-badge" alt="adel_el_hawary" /></a> </p>
 
-- 🔭 I’m currently working on [TaskedIn](https://play.google.com/store/apps/details?id=com.megatrust.taskedinpro)
+- 🔭 I’m currently working on [Yassir](https://play.google.com/store/apps/details?id=com.yatechnologies.yassir_rider)
 
 - 🌱 I’m currently learning **Kotlin Multiplatform & Ktor framework**
 
